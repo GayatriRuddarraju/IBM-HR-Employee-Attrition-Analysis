@@ -4,11 +4,11 @@
 
 Attrition analysis helps HR departments understand why employees leave and what factors are most correlated with turnover. This dashboard presents an at-a-glance view of key metrics and visualizations, allowing HR teams to make data-driven decisions.
 
-## Dashboard Preview
+## 🔍Dashboard Preview
 
 <img width="831" height="468" alt="IBM HR Attrition Analysis" src="https://github.com/user-attachments/assets/f843bb32-ceb5-4781-9004-82461c1dd64d" />
 
-## 📈 KPI Metrics Displayed
+## 📈 Key Dashboard Metrics
 
 - Attrition Count -	237(Employees)
 - Total Employees -	1,470
