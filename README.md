@@ -44,71 +44,45 @@ Attrition analysis helps HR departments understand why employees leave and what 
 
 ## 🧠 Filters & Segmentation
 
-- ✅ **Education Field**
-- Gender (Male/Female)
-- Job Role
-- Overtime (Yes/No)
- -Department
+✅ **Education Field**
+✅ **Gender (Male/Female)**
+✅ **Job Role**
+✅ **Overtime (Yes/No)**
+✅ **Department**
   
 This enables deeper insights into how different factors contribute to attrition.
 
 ## 🛠️ Tools & Technologies
 
-Power BI – For dashboard creation and data visualization
+- Power BI – For dashboard creation and data visualization
+- Excel / CSV – Source data format
 
-Excel / CSV – Source data format
+## 🎯 Insights & Takeaways
 
-🎯 Insights & Takeaways
+- Roles with high stress or targets (e.g., Sales Reps) tend to have higher attrition.
+- Departments like R&D show better employee retention.
+- Overtime and lower income may contribute to higher attrition rates.
 
-Roles with high stress or targets (e.g., Sales Reps) tend to have higher attrition.
+## 🚀 Getting Started
 
-Departments like R&D show better employee retention.
+To run and explore the dashboard locally:
 
-Overtime and lower income may contribute to higher attrition rates.
+**1. Clone the repository:**
 
-📁 Folder Structure (Suggested)
-IBM-HR-Attrition-Analysis/
-│
-├── data/
-│   └── employee_attrition.csv
-│
-├── dashboard/
-│   └── IBM_Attrition_Dashboard.pbix
-│
-├── images/
-│   └── IBM_HR_Attrition_Analysis.png
-│
-├── README.md
-└── requirements.txt
+git clone https://github.com/your-username/IBM-HR-Attrition-Analysis.git
+cd IBM-HR-Attrition-Analysis
 
-✅ How to Use
+**2. Open Power BI Desktop** and load the .pbix file from the dashboard/ folder.
 
-Clone the repository
+**3. Interact with the filters** to explore attrition trends across various segments.
 
-git clone https://github.com/yourusername/IBM-HR-Attrition-Analysis.git
-
-
-Open the Power BI dashboard
-
-Navigate to dashboard/IBM_Attrition_Dashboard.pbix
-
-Open in Power BI Desktop
-
-Explore the filters and insights
-
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repo, open issues, or submit pull requests for improvements or additional visualizations.
 
-📄 License
-
-This project is licensed under the MIT License
-.
-
-📬 Contact
+## 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out at:
-
-📧 your.email@example.com
-
-🌐 LinkedIn Profile
+- **Email Id:** gayatrideviruddarraju@gmail.com
+- **LinkedIn:** http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
+  
