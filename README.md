@@ -2,11 +2,11 @@
 
 ## 📊 IBM HR Attrition Analysis
 
-This project analyzes employee attrition data at IBM using interactive dashboards and key metrics. The goal is to identify trends and patterns related to employee turnover based on various demographics, job roles, departments, and more.
-
-## 🔍 Overview
-
 Attrition analysis helps HR departments understand why employees leave and what factors are most correlated with turnover. This dashboard presents an at-a-glance view of key metrics and visualizations, allowing HR teams to make data-driven decisions.
+
+## Dashboard Preview
+
+<img width="831" height="468" alt="IBM HR Attrition Analysis" src="https://github.com/user-attachments/assets/f843bb32-ceb5-4781-9004-82461c1dd64d" />
 
 ## 📈 KPI Metrics Displayed
 
@@ -44,11 +44,11 @@ Attrition analysis helps HR departments understand why employees leave and what 
 
 ## 🧠 Filters & Segmentation
 
-✅ **Education Field**
-✅ **Gender (Male/Female)**
-✅ **Job Role**
-✅ **Overtime (Yes/No)**
-✅ **Department**
+- ✅ **Education Field**
+- ✅ **Gender (Male/Female)**
+- ✅ **Job Role**
+- ✅ **Overtime (Yes/No)**
+- ✅ **Department**
   
 This enables deeper insights into how different factors contribute to attrition.
 
